@@ -5,7 +5,7 @@ Instructions when running:
 Just write any decimal number and it will display the number in IEEE-754 format.
 The program will run only once for each conversion.
 
-- Example Console Run:
+### Example Console Run:
 
 Write decimal number to convert: 
 
